@@ -1,0 +1,39 @@
+.Favoritediv{
+text-align: center;
+align-items: center;
+justify-content: space-around;
+margin: 110px 5px -20px;
+font-family: 'Courier New', Courier, monospace;
+z-index: 10;
+flex-direction: row;
+}
+
+H1{
+    font-weight: bold;
+    color: #5eb7b7;
+    padding: 10px 2px 2px 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    z-index: 10;
+}
+
+
+
+.ResponsiveContent { 
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+@media(max-width: 500px) { 
+    .ResponsiveContent {   
+        flex-flow: column;
+        text-align: center;
+    }
+}
