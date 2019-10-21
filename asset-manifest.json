@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/projcte/static/css/main.73dd6132.chunk.css",
-    "main.js": "/projcte/static/js/main.df7f6cea.chunk.js",
-    "main.js.map": "/projcte/static/js/main.df7f6cea.chunk.js.map",
-    "runtime-main.js": "/projcte/static/js/runtime-main.f1203b6e.js",
-    "runtime-main.js.map": "/projcte/static/js/runtime-main.f1203b6e.js.map",
-    "static/css/2.510409cd.chunk.css": "/projcte/static/css/2.510409cd.chunk.css",
-    "static/js/2.4d401972.chunk.js": "/projcte/static/js/2.4d401972.chunk.js",
-    "static/js/2.4d401972.chunk.js.map": "/projcte/static/js/2.4d401972.chunk.js.map",
-    "index.html": "/projcte/index.html",
-    "precache-manifest.177bc92568c067df94093178b069b7a9.js": "/projcte/precache-manifest.177bc92568c067df94093178b069b7a9.js",
-    "service-worker.js": "/projcte/service-worker.js",
-    "static/css/2.510409cd.chunk.css.map": "/projcte/static/css/2.510409cd.chunk.css.map",
-    "static/css/main.73dd6132.chunk.css.map": "/projcte/static/css/main.73dd6132.chunk.css.map"
+    "main.css": "https//adimute.github.io/projcte/static/css/main.73dd6132.chunk.css",
+    "main.js": "https//adimute.github.io/projcte/static/js/main.f92c9c22.chunk.js",
+    "main.js.map": "https//adimute.github.io/projcte/static/js/main.f92c9c22.chunk.js.map",
+    "runtime-main.js": "https//adimute.github.io/projcte/static/js/runtime-main.8d5d71f1.js",
+    "runtime-main.js.map": "https//adimute.github.io/projcte/static/js/runtime-main.8d5d71f1.js.map",
+    "static/css/2.510409cd.chunk.css": "https//adimute.github.io/projcte/static/css/2.510409cd.chunk.css",
+    "static/js/2.4d401972.chunk.js": "https//adimute.github.io/projcte/static/js/2.4d401972.chunk.js",
+    "static/js/2.4d401972.chunk.js.map": "https//adimute.github.io/projcte/static/js/2.4d401972.chunk.js.map",
+    "index.html": "https//adimute.github.io/projcte/index.html",
+    "precache-manifest.2e087d8a7ee3fd3c7eb012de4563a00e.js": "https//adimute.github.io/projcte/precache-manifest.2e087d8a7ee3fd3c7eb012de4563a00e.js",
+    "service-worker.js": "https//adimute.github.io/projcte/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "https//adimute.github.io/projcte/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.73dd6132.chunk.css.map": "https//adimute.github.io/projcte/static/css/main.73dd6132.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1203b6e.js",
+    "static/js/runtime-main.8d5d71f1.js",
     "static/css/2.510409cd.chunk.css",
     "static/js/2.4d401972.chunk.js",
     "static/css/main.73dd6132.chunk.css",
-    "static/js/main.df7f6cea.chunk.js"
+    "static/js/main.f92c9c22.chunk.js"
   ]
 }
